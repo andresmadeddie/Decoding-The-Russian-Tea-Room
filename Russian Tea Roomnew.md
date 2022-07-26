@@ -2,7 +2,7 @@
 
 
 |     | ENGLISH | RUSSIAN |
-| --- | --- | --- |
+| --- | -------------------- | --- |
 | Menu 1 |  |     |
 | Name | Appetizers | ЗАКУСКИ |
 | File Location | /vol_vol2/app.txt | /vol_vol2/app.txt |
