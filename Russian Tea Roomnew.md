@@ -75,7 +75,7 @@
 | Latin UTF-16 (Unicode Escaped) | \u0043\u0068\u0065\u0065\u0073\u0065\u0020\u0061\u006e\u0064\u0020\u006d<br />\u0069\u006c\u006b\u0020\u0070\u0072\u006f\u0064\u0075\u0063\u0074\u0073 | \u0421\u042b\u0420\u0020\u0418\u0020\u041c\u041e\u041b\u041e\u0427\u041d\u042b\u0415 |
 | **Menu 6** |  |     |	
 | Name | Beverages | НАПИТКИ |
-| File Location	| /img_Russian-TeaRoom.E01/vol_vol2/_4B0~1.TXT | |
+| File Location	| /vol_vol2/_4B0~1.TXT | /vol_vol2/_4B0~1.TXT |
 | Start Location | 0x00000010 | 0x00000000 |
 | Hex String Name | 4200650076006500720061006700650073 | FEFF041D0410041F04180422041A0418 |
 | Latin UTF-16 (Unicode Escaped) | \u0042\u0065\u0076\u0065\u0072\u0061\u0067\u0065\u0073 | \u041d\u0410\u041f\u0418\u0422\u041a\u0418 |
