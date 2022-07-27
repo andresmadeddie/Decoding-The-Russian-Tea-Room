@@ -22,4 +22,4 @@ There was a fire at the Little Russian Tea Room restaurant last week, and the on
 
 | | | |
 | --- | --- | --- |
-| ![2](/images/1.png) | ![3](/images/2.png) | ![4](/images/3.png)|
+| ![2](/images/1.PNG) | ![3](/images/2.PNG) | ![4](/images/3.PNG)|
