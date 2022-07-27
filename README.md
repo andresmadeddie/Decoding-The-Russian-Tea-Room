@@ -1,8 +1,11 @@
-#Russian Tea Room
+# Russian Tea Room
+
+![1](/Images/4.png)
 
 ## About
 
 This project is about locating and decoding data in a forensic image to obtain the missing data. To Assemble the data is required to understand concepts related to encoding and decoding as Unicode, big endian, little endian, UTF-8, UTF-16, BOM, Cyrillic, Latin, etc. In cybersecurity, locating, identifying, encoding, and decoding skills also are used with other types of data such as executable code or malicious documents. The project's report lies in the Russian Tea Room file.
+
 
 ## The Narrative behind the project
 
@@ -16,3 +19,7 @@ There was a fire at the Little Russian Tea Room restaurant last week, and the on
 - Google Translator
 - AWK command
 - Q shell
+
+| | | |
+| --- | --- | --- |
+| ![2](/images/1.png) | ![3](/images/2.png) | ![4](/images/3.png)|
