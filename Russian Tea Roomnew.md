@@ -1,3 +1,5 @@
+# Russian Tea Room Menu Reconstruction Coordinates from the Hard Drive Image
+
 |     | ENGLISH | RUSSIAN |
 | --- | --- | --- |
 | **Menu 1** |  |     |
