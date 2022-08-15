@@ -1,4 +1,4 @@
-# Russian Tea Room
+# Decoding the Russian Tea Room
 
 Project: [The Russian Tea Room](/Russian%20Tea%20Room.md)
 
